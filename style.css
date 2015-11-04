@@ -1,0 +1,13 @@
+body {
+  max-width: 800px;
+  margin: 10em auto;
+  font-familY: Verdana, sans-serif;
+}
+
+button, #button {
+  background-color: #2EB82E;
+  font-size: 2em;
+  font-weight: bold;
+  margin: 1em 0;
+  padding: .5em;
+}
